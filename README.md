@@ -41,7 +41,7 @@ Built for **COMP 016 – Web Development (Lab Activity 6)**.
 **Request (`POST`, `Content-Type: application/json`):**
 ```json
 {
-  "student_name": "Francis Philip Conguis"
+  "student_name": "Tony Stark"
 }
 ```
 
@@ -49,7 +49,7 @@ Built for **COMP 016 – Web Development (Lab Activity 6)**.
 ```json
 {
   "status": "success",
-  "message": "Student 'Francis Philip Conguis' is officially verified and enrolled."
+  "message": "Student 'Tony Stark' is officially verified and enrolled."
 }
 ```
 
