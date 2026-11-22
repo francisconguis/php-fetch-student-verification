@@ -63,7 +63,7 @@ Built for **COMP 016 – Web Development (Lab Activity 6)**.
 
 ## Author
 
-**Francis Philip B. Conguis** — BSIT 3-5
+**Francis Conguis**
 
 ## License
 
